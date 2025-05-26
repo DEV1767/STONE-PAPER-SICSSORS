@@ -1,0 +1,34 @@
+@media  (max-width:627px) {
+    .choices{
+        margin-top: 230px;
+        gap:15px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .choice{
+        height: 120px;
+        width: 120px;
+        border-radius: 8px;
+    }
+    img{
+     height: 120px;
+    width: 120px;
+    object-fit: cover;
+    border-radius: 40%;
+    border: 3px solid black;
+    }
+    h1{
+    height: 90px;
+    width: 100%;
+    margin:0;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+    background-color: #4B0082;
+    color:white;
+    font-weight: bolder;
+    overflow-x: hidden;
+}
+    }
+   
